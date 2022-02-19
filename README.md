@@ -1,2 +1,2 @@
 # Time-series-analysis
-Time series Vizualisation with Python
+Time series Visualization with Python
